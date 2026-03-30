@@ -1,13 +1,15 @@
-# Olá 👋
+# Olá! Eu sou a Bianca 👋
 
-Me chamo Bianca e estou estudando Desenvolvimento de Sistemas.
+🎮 Estudante de Desenvolvimento de Sistemas  
+💻 Foco em desenvolvimento de jogos  
+🚀 Aprendendo Python e programação  
 
-💻 Tecnologias que estou aprendendo:
+## 💡 Tecnologias
+- Python
+- HTML
+- CSS
 
-🐍 Python  
-🌐 HTML  
-🎨 CSS
-
-📚 Atualmente estudando programação e iniciando projetos simples.
+## 📫 Contato
+- Email: seuemail@email.com
 
 📫 Contato: biancabiih80@gmail.com
