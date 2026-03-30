@@ -9,7 +9,4 @@
 - HTML
 - CSS
 
-## 📫 Contato
-- Email: seuemail@email.com
-
 📫 Contato: biancabiih80@gmail.com
